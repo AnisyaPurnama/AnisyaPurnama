@@ -1,5 +1,6 @@
-### Hi there 👋
+### ANISYA :bird:@boeunisya
 
+![woman walking](https://cdn.dribbble.com/users/962321/screenshots/3610742/gif_walk_02_25fps.gif)
 <!--
 **AnisyaPurnama/AnisyaPurnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
