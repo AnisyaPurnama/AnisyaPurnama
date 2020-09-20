@@ -1,4 +1,4 @@
-### ANISYA :bird:@boeunisya
+### ANISYA :heart:@boeunisya
 
 ![woman walking](https://cdn.dribbble.com/users/962321/screenshots/3610742/gif_walk_02_25fps.gif)
 <!--
