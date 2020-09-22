@@ -1,17 +1,16 @@
-### ANISYA :heart:@boeunisya
+##### MY NAME IS ANISYA :heart:
 
-![woman walking](https://cdn.dribbble.com/users/962321/screenshots/3610742/gif_walk_02_25fps.gif)
-<!--
-**AnisyaPurnama/AnisyaPurnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hello](https://thumbs.gfycat.com/FantasticRareKissingbug-small.gif)
 
-Here are some ideas to get you started:
+![statistic](https://github-readme-stats.vercel.app/api?username=AnisyaPurnama&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffb6c1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 currently become a tech enthusiast and try to teaching myself how to code.
+- 🌱 I’m currently learning tech in HackYourFuture
+
+- 📫 How to reach me?
+
+[<img src="http://kitoula.com/wp-content/uploads/2016/01/Twitter-icon-small.png">](https://twitter.com/boeunisya)
+
+[<img src="http://fresnostate.edu/webresources/images/64x64/64x64-instagram.png">](https://www.instagram.com/boeunisya/)
+
+
