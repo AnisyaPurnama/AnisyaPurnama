@@ -14,7 +14,8 @@
 |---|---|---|
 |VSCode|Node Js|React|
 |Squirell|SQLite|MySQL|
-|Postman|Figma|Java (On going)|
+|Bulma|Figma|Bootstrap|
+|Nodemon|Postman|Java (On going)|
 
 - 📫 How to reach me?
 
