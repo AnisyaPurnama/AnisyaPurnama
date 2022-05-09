@@ -10,12 +10,13 @@
 - 🌱 Graduate from HackYourFuture Belgium program 2020-2021
 - Technologies:
 
-|HTML|CSS|JavaScript|
+|Java|Selenium|IntelliJ|
 |---|---|---|
 |VSCode|Node Js|React|
 |Squirell|SQLite|MySQL|
 |Bulma|Figma|Bootstrap|
-|Nodemon|Postman|Java (On going)|
+|Nodemon|Postman|JavaScript|
+|CSS|Gherkin|Cucumber|
 
 - 📫 How to reach me?
 
