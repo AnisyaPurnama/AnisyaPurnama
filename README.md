@@ -2,25 +2,41 @@
 
 ![hello](https://thumbs.gfycat.com/FantasticRareKissingbug-small.gif)
 
-##### MY NAME IS ANISYA :heart:
+##### ANISYA WEETELING :heart:
 
 ![statistic](https://github-readme-stats.vercel.app/api?username=AnisyaPurnama&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffb6c1)
 
-- 🔭 currently become a tech enthusiast and try to teaching myself how to code in the web development and test as a software tester.
-- 🌱 Graduate from HackYourFuture Belgium program 2020-2021
-- Technologies:
+ 🔭 Hi! I'm a Quality Analyst Engineer with professional experience in software testing since 2021. I specialize in both manual and automated testing for web and mobile applications — including hybrid and native apps. My focus is on ensuring high-quality software through thoughtful test strategies, automation frameworks, and continuous improvement.
+ 
+ 🌱 Graduate from HackYourFuture Belgium program 2020-2021
 
-|Java|Selenium|IntelliJ|
+ 📚 I'm a self-taught tech enthusiast committed to growth, learning, and delivering quality.
+
+ 🧪 What I Do:
+
+- End-to-end testing for web and mobile apps
+
+- Automation for both frontend and backend systems
+
+- Manual testing, exploratory testing, and regression testing
+
+- CI/CD pipeline integration
+
+- Cross-platform testing (iOS, Android, desktop browsers)
+
+  
+
+|Language|Technologies|Misc.|
 |---|---|---|
-|VSCode|Node Js|React|
-|Squirell|SQLite|MySQL|
-|Bulma|Figma|Bootstrap|
-|Nodemon|Postman|JavaScript|
-|CSS|Gherkin|Cucumber|
+|Java|Cucumber|VSCode|
+|Typescript|Selenium|IntelliJ|
+|Javascript|Appium|RESTassured|
+|Phyton|Postman|Playwright|
+||Cypress|Gherkin|
 
 - 📫 How to reach me?
 
-|[<img src="http://kitoula.com/wp-content/uploads/2016/01/Twitter-icon-small.png">](https://twitter.com/boeunisya)|[<img src="http://fresnostate.edu/webresources/images/64x64/64x64-instagram.png">](https://www.instagram.com/boeunisya/)|[<img src="https://cdn3.iconfinder.com/data/icons/social4/linkedin.png">](https://www.linkedin.com/in/anisya-weeteling-1b87151b4/)|
-|---|---|---|
+[<img src="https://cdn3.iconfinder.com/data/icons/social4/linkedin.png">](https://www.linkedin.com/in/anisya-weeteling-1b87151b4/)
+
 
 
